@@ -1,6 +1,6 @@
 # Blaine Perry
 
-**Principal AI Solutions Architect | Forward-Deployed Engineering**
+**Senior AI Solutions Architect | Forward-Deployed Engineering**
 
 I turn ambiguous enterprise problems into secure, production AI systems. My work spans customer discovery, architecture, hands-on engineering, deployment, and executive communication, with a focus on agentic AI, retrieval-augmented generation, Model Context Protocol, and cloud security.
 
