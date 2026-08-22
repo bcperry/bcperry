@@ -15,7 +15,7 @@ At Microsoft, I lead technical decisions across major AI and data engagements. F
 ## Selected projects
 
 - [Azure AI Search with MCP](https://github.com/bcperry/AI_search_with_mcp) — MCP-based RAG reference architecture with hybrid retrieval, Entra authentication, managed identities, and automated Azure Government deployment.
-- [Captain's Log](https://github.com/bcperry/captains-log-demo) — AI-assisted transcription and analysis for long-form test events using Whisper, Python, and Streamlit.
+- [Captain's Log](https://github.com/bcperry/captains-log-demo) — Full-stack transcription and analysis using React, FastAPI, Azure Speech, Azure OpenAI, and Entra ID.
 - [DUCE: Zero-Shot Object Detection](https://github.com/bcperry/DUCE-Zero-shot-Object-Detection-with-a-Text-and-Image-Contrastive-Model) — CLIP and Faster R-CNN detector that outperformed YOLOv5 on classes withheld from task-specific training.
 - [Local LLM Stack](https://github.com/bcperry/local_llm) — Dockerized Ollama and Open WebUI stack with GPU acceleration and supporting services.
 - [Power BI MCP](https://github.com/bcperry/pbi-mcp) — Authenticated MCP server for exploring and querying Power BI semantic models.
